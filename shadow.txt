@@ -1,0 +1,7 @@
+포인트 라이트 그림자가 그렇게 어렵다던데..
+
+release v0.1.0 start
+
+bug fixed
+
+release v0.1.0 complete!!!
